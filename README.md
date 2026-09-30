@@ -37,7 +37,7 @@ Topics include:
 * RMSE-based evaluation, feature engineering, categorical variables, regularization, and model tuning
 * Using a final trained model to generate predictions on new observations
 
-This module provides a foundation in both the mathematical principles behind regression and their practical implementation with Python and scikit-learn. ([raw.githubusercontent.com](https://raw.githubusercontent.com/DataTalksClub/machine-learning-zoomcamp/master/02-regression/README.md))
+This module provides a foundation in both the mathematical principles behind regression and their practical implementation with Python and scikit-learn. ([02-regression](https://github.com/DataTalksClub/machine-learning-zoomcamp/tree/main/02-regression#readme))
 
 ---
 
@@ -52,7 +52,7 @@ Topics include:
 * Logistic regression, including probability-based predictions, classification thresholds, model training, and coefficient interpretation
 * Generating predictions for new observations and translating customer data into predictive features
 
-This module develops practical experience framing business questions as classification problems and working with both categorical and numerical predictors. ([raw.githubusercontent.com](https://raw.githubusercontent.com/DataTalksClub/machine-learning-zoomcamp/master/03-classification/README.md))
+This module develops practical experience framing business questions as classification problems and working with both categorical and numerical predictors. ([03-classification](https://github.com/DataTalksClub/machine-learning-zoomcamp/tree/main/02-classification#readme))
 
 ---
 
@@ -68,6 +68,7 @@ Topics include:
 * Cross-validation and more robust approaches to model selection
 
 The focus is on understanding which evaluation metrics are appropriate for a particular problem and how model performance changes under different decision thresholds.
+([04-evaluation](https://github.com/DataTalksClub/machine-learning-zoomcamp/tree/main/04-evaluation#readme))
 
 ---
 
@@ -82,7 +83,8 @@ Topics include:
 * Building a **FastAPI** prediction service with input validation using **Pydantic**
 * Packaging the application with **Docker** and deploying it to the cloud
 
-Through this work, I’ll gain experience with the engineering practices required to take a trained model beyond experimentation and make it accessible through an API. The current course workshop uses FastAPI, uv, Docker, and Fly.io as the modern deployment stack. ([raw.githubusercontent.com](https://raw.githubusercontent.com/DataTalksClub/machine-learning-zoomcamp/master/05-deployment/workshop/README.md))
+Through this work, I’ll gain experience with the engineering practices required to take a trained model beyond experimentation and make it accessible through an API. The current course workshop uses FastAPI, uv, Docker, and Fly.io as the modern deployment stack. 
+([05-deployment](https://github.com/DataTalksClub/machine-learning-zoomcamp/tree/main/05-deployment#readme))
 
 ---
 
@@ -97,6 +99,7 @@ Topics include:
 * Gradient boosting and **XGBoost**, including learning-rate, tree-depth, and iteration tuning
 
 I’ll apply these techniques to a **credit risk scoring** problem and compare different tree-based approaches for tabular data.
+([06-trees](https://github.com/DataTalksClub/machine-learning-zoomcamp/tree/main/06-trees#readme))
 
 ---
 
@@ -130,7 +133,8 @@ Topics include:
 * Transfer learning with pre-trained image models, including freezing layers, replacing classification heads, and fine-tuning
 * Regularization, data augmentation, learning-rate tuning, model checkpointing, and model export
 
-The current course materials include a PyTorch-based workshop, providing practical experience with modern deep-learning workflows alongside the underlying concepts. ([raw.githubusercontent.com](https://raw.githubusercontent.com/DataTalksClub/machine-learning-zoomcamp/master/08-deep-learning/pytorch/README.md))
+The current course materials include a PyTorch-based workshop, providing practical experience with modern deep-learning workflows alongside the underlying concepts. 
+([08-deep-learning](https://github.com/DataTalksClub/machine-learning-zoomcamp/tree/main/08-deep-learning#readme))
 
 ---
 
@@ -146,6 +150,7 @@ Topics include:
 * Deploying different types of models, including scikit-learn and deep-learning models
 
 The module builds on the earlier deployment work while introducing the practical considerations of running machine learning workloads in a serverless environment.
+([09-serverless](https://github.com/DataTalksClub/machine-learning-zoomcamp/tree/main/09-serverless#readme))
 
 ---
 
@@ -161,6 +166,7 @@ Topics include:
 * Deploying machine learning services to **Amazon Elastic Kubernetes Service (EKS)**
 
 This extends the deployment concepts introduced earlier from individual containers and cloud functions to infrastructure capable of managing and scaling multiple services.
+([10-kubernetes](https://github.com/DataTalksClub/machine-learning-zoomcamp/tree/main/10-kubernetes#readme))
 
 ---
 
@@ -184,7 +190,7 @@ The project topic has not yet been selected.
 
 **Project:** [Capstone Project 2](./capstone-project-2/)
 
-The 2026 course requires two passing projects for the certificate: either the midterm and one capstone, or both capstones. Each project also includes peer review of other students' projects. ([github.com](https://github.com/DataTalksClub/machine-learning-zoomcamp/blob/main/cohorts/2026/README.md))
+The 2026 course requires two passing projects for the certificate: either the midterm and one capstone, or both capstones. Each project also includes peer review of other students' projects.
 
 ---
 
