@@ -222,5 +222,5 @@ In particular, I’ll develop the ability to:
 * **Work with modern ML infrastructure**, including serverless computing, Kubernetes, and dedicated model-serving systems.
 * **Complete end-to-end machine learning projects independently**, documenting decisions from problem definition through deployment.
 
-The overall goal is to develop not only an understanding of machine learning algorithms, but also the practical skills required to turn those algorithms into reliable, reproducible, and deployable machine learning systems.
+My overall goal in this course is to develop not only an understanding of machine learning algorithms, but also the practical skills required to turn those algorithms into reliable, reproducible, and deployable machine learning systems.
 
